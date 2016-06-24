@@ -8,5 +8,4 @@ object HelloWorld {
 	def Test(arg: String): String = {
 		arg + "sine"
 	}
-
 }

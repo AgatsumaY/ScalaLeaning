@@ -1,0 +1,588 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kizer/scalaL/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -feature
+2 -> -unchecked
+3 -> -Xlint
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+41 items
+/Users/kizer/scalaL/CodeToImage.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/CodeToImage$.class
+/Users/kizer/scalaL/CodeToImage.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/CodeToImage$delayedInit$body.class
+/Users/kizer/scalaL/CodeToImage.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/CodeToImage.class
+/Users/kizer/scalaL/Curve.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Curve.class
+/Users/kizer/scalaL/Curve.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/CurveApp.class
+/Users/kizer/scalaL/Curve.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/CurveMain$.class
+/Users/kizer/scalaL/Curve.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/CurveMain.class
+/Users/kizer/scalaL/HelloWorld.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/HelloWorld$.class
+/Users/kizer/scalaL/HelloWorld.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/HelloWorld.class
+/Users/kizer/scalaL/Koch.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Koch.class
+/Users/kizer/scalaL/Koch.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/KochApp.class
+/Users/kizer/scalaL/Koch.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/KochMain$.class
+/Users/kizer/scalaL/Koch.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/KochMain.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$1.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$2.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$accumDelta$1$$anonfun$apply$mcVI$sp$2.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$accumDelta$1.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$forward$1$$anonfun$apply$mcVI$sp$1.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$forward$1.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$softmax$1.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$softmax$2.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$3.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$5.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$6$$anonfun$apply$mcVI$sp$7.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$6.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1.class
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/Logistic.class
+/Users/kizer/scalaL/RecursiveCall.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall$$anonfun$fact$1.class
+/Users/kizer/scalaL/RecursiveCall.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall$.class
+/Users/kizer/scalaL/RecursiveCall.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall$delayedInit$body.class
+/Users/kizer/scalaL/RecursiveCall.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall.class
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$disp$1.class
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$disp$2.class
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$disp$3.class
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$hanoi$1.class
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$.class
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$delayedInit$body.class
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi.class
+/Users/kizer/scalaL/User.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/User2$.class
+/Users/kizer/scalaL/User.scala -> /Users/kizer/scalaL/target/scala-2.11/classes/User2.class
+binary dependencies:
+18 items
+/Users/kizer/scalaL/CodeToImage.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/CodeToImage.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kizer/scalaL/Curve.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/jfxrt.jar
+/Users/kizer/scalaL/Curve.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/Curve.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kizer/scalaL/HelloWorld.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/HelloWorld.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kizer/scalaL/Koch.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/jfxrt.jar
+/Users/kizer/scalaL/Koch.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/Koch.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kizer/scalaL/Logistic.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/Logistic.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kizer/scalaL/RecursiveCall.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/RecursiveCall.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/TowersOfHanoi.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kizer/scalaL/User.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kizer/scalaL/User.scala -> /Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/Users/kizer/scalaL/HelloWorld.scala -> /Users/kizer/scalaL/User.scala
+/Users/kizer/scalaL/Koch.scala -> /Users/kizer/scalaL/Curve.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/Users/kizer/scalaL/Koch.scala -> /Users/kizer/scalaL/Curve.scala
+inheritance external dependencies:
+0 items
+class names:
+41 items
+/Users/kizer/scalaL/CodeToImage.scala -> CodeToImage
+/Users/kizer/scalaL/CodeToImage.scala -> CodeToImage$
+/Users/kizer/scalaL/CodeToImage.scala -> CodeToImage$delayedInit$body
+/Users/kizer/scalaL/Curve.scala -> Curve
+/Users/kizer/scalaL/Curve.scala -> CurveApp
+/Users/kizer/scalaL/Curve.scala -> CurveMain
+/Users/kizer/scalaL/Curve.scala -> CurveMain$
+/Users/kizer/scalaL/HelloWorld.scala -> HelloWorld
+/Users/kizer/scalaL/HelloWorld.scala -> HelloWorld$
+/Users/kizer/scalaL/Koch.scala -> Koch
+/Users/kizer/scalaL/Koch.scala -> KochApp
+/Users/kizer/scalaL/Koch.scala -> KochMain
+/Users/kizer/scalaL/Koch.scala -> KochMain$
+/Users/kizer/scalaL/Logistic.scala -> Logistic
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$1
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$2
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$accumDelta$1
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$accumDelta$1$$anonfun$apply$mcVI$sp$2
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$forward$1
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$forward$1$$anonfun$apply$mcVI$sp$1
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$softmax$1
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$softmax$2
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$train$1
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$3
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$5
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$6
+/Users/kizer/scalaL/Logistic.scala -> Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$6$$anonfun$apply$mcVI$sp$7
+/Users/kizer/scalaL/RecursiveCall.scala -> RecursiveCall
+/Users/kizer/scalaL/RecursiveCall.scala -> RecursiveCall$
+/Users/kizer/scalaL/RecursiveCall.scala -> RecursiveCall$$anonfun$fact$1
+/Users/kizer/scalaL/RecursiveCall.scala -> RecursiveCall$delayedInit$body
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi$
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi$$anonfun$disp$1
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi$$anonfun$disp$2
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi$$anonfun$disp$3
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi$$anonfun$hanoi$1
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi$delayedInit$body
+/Users/kizer/scalaL/User.scala -> User2
+/Users/kizer/scalaL/User.scala -> User2$
+used names:
+295 items
+/Users/kizer/scalaL/CodeToImage.scala -> <init>
+/Users/kizer/scalaL/CodeToImage.scala -> AnyRef
+/Users/kizer/scalaL/CodeToImage.scala -> App
+/Users/kizer/scalaL/CodeToImage.scala -> BLACK
+/Users/kizer/scalaL/CodeToImage.scala -> BufferedImage
+/Users/kizer/scalaL/CodeToImage.scala -> CodeToImage
+/Users/kizer/scalaL/CodeToImage.scala -> Color
+/Users/kizer/scalaL/CodeToImage.scala -> File
+/Users/kizer/scalaL/CodeToImage.scala -> Graphics2D
+/Users/kizer/scalaL/CodeToImage.scala -> ImageIO
+/Users/kizer/scalaL/CodeToImage.scala -> Predef
+/Users/kizer/scalaL/CodeToImage.scala -> String
+/Users/kizer/scalaL/CodeToImage.scala -> Unit
+/Users/kizer/scalaL/CodeToImage.scala -> WHITE
+/Users/kizer/scalaL/CodeToImage.scala -> awt
+/Users/kizer/scalaL/CodeToImage.scala -> clearRect
+/Users/kizer/scalaL/CodeToImage.scala -> create
+/Users/kizer/scalaL/CodeToImage.scala -> createGraphics
+/Users/kizer/scalaL/CodeToImage.scala -> drawString
+/Users/kizer/scalaL/CodeToImage.scala -> g2d
+/Users/kizer/scalaL/CodeToImage.scala -> h
+/Users/kizer/scalaL/CodeToImage.scala -> image
+/Users/kizer/scalaL/CodeToImage.scala -> imageio
+/Users/kizer/scalaL/CodeToImage.scala -> io
+/Users/kizer/scalaL/CodeToImage.scala -> java
+/Users/kizer/scalaL/CodeToImage.scala -> javax
+/Users/kizer/scalaL/CodeToImage.scala -> scala
+/Users/kizer/scalaL/CodeToImage.scala -> setBackground
+/Users/kizer/scalaL/CodeToImage.scala -> setColor
+/Users/kizer/scalaL/CodeToImage.scala -> start
+/Users/kizer/scalaL/CodeToImage.scala -> str
+/Users/kizer/scalaL/CodeToImage.scala -> w
+/Users/kizer/scalaL/CodeToImage.scala -> write
+/Users/kizer/scalaL/Curve.scala -> *
+/Users/kizer/scalaL/Curve.scala -> +
+/Users/kizer/scalaL/Curve.scala -> <init>
+/Users/kizer/scalaL/Curve.scala -> AnyRef
+/Users/kizer/scalaL/Curve.scala -> Application
+/Users/kizer/scalaL/Curve.scala -> Array
+/Users/kizer/scalaL/Curve.scala -> Canvas
+/Users/kizer/scalaL/Curve.scala -> Curve
+/Users/kizer/scalaL/Curve.scala -> CurveApp
+/Users/kizer/scalaL/Curve.scala -> CurveMain
+/Users/kizer/scalaL/Curve.scala -> Double
+/Users/kizer/scalaL/Curve.scala -> EventHandler
+/Users/kizer/scalaL/Curve.scala -> GraphicsContext
+/Users/kizer/scalaL/Curve.scala -> MouseEvent
+/Users/kizer/scalaL/Curve.scala -> Predef
+/Users/kizer/scalaL/Curve.scala -> Scene
+/Users/kizer/scalaL/Curve.scala -> StackPane
+/Users/kizer/scalaL/Curve.scala -> Stage
+/Users/kizer/scalaL/Curve.scala -> String
+/Users/kizer/scalaL/Curve.scala -> Unit
+/Users/kizer/scalaL/Curve.scala -> add
+/Users/kizer/scalaL/Curve.scala -> angle
+/Users/kizer/scalaL/Curve.scala -> application
+/Users/kizer/scalaL/Curve.scala -> args
+/Users/kizer/scalaL/Curve.scala -> c
+/Users/kizer/scalaL/Curve.scala -> canvas
+/Users/kizer/scalaL/Curve.scala -> control
+/Users/kizer/scalaL/Curve.scala -> cos
+/Users/kizer/scalaL/Curve.scala -> draw
+/Users/kizer/scalaL/Curve.scala -> effect
+/Users/kizer/scalaL/Curve.scala -> event
+/Users/kizer/scalaL/Curve.scala -> forward
+/Users/kizer/scalaL/Curve.scala -> g
+/Users/kizer/scalaL/Curve.scala -> geometry
+/Users/kizer/scalaL/Curve.scala -> getChildren
+/Users/kizer/scalaL/Curve.scala -> getGraphicsContext2D
+/Users/kizer/scalaL/Curve.scala -> input
+/Users/kizer/scalaL/Curve.scala -> javafx
+/Users/kizer/scalaL/Curve.scala -> lastX
+/Users/kizer/scalaL/Curve.scala -> lastX_=
+/Users/kizer/scalaL/Curve.scala -> lastY
+/Users/kizer/scalaL/Curve.scala -> lastY_=
+/Users/kizer/scalaL/Curve.scala -> launch
+/Users/kizer/scalaL/Curve.scala -> layout
+/Users/kizer/scalaL/Curve.scala -> len
+/Users/kizer/scalaL/Curve.scala -> math
+/Users/kizer/scalaL/Curve.scala -> move
+/Users/kizer/scalaL/Curve.scala -> package
+/Users/kizer/scalaL/Curve.scala -> pane
+/Users/kizer/scalaL/Curve.scala -> scala
+/Users/kizer/scalaL/Curve.scala -> scene
+/Users/kizer/scalaL/Curve.scala -> setScene
+/Users/kizer/scalaL/Curve.scala -> shape
+/Users/kizer/scalaL/Curve.scala -> show
+/Users/kizer/scalaL/Curve.scala -> sin
+/Users/kizer/scalaL/Curve.scala -> stage
+/Users/kizer/scalaL/Curve.scala -> strokeLine
+/Users/kizer/scalaL/Curve.scala -> text
+/Users/kizer/scalaL/Curve.scala -> x
+/Users/kizer/scalaL/Curve.scala -> y
+/Users/kizer/scalaL/HelloWorld.scala -> +
+/Users/kizer/scalaL/HelloWorld.scala -> <init>
+/Users/kizer/scalaL/HelloWorld.scala -> AnyRef
+/Users/kizer/scalaL/HelloWorld.scala -> Array
+/Users/kizer/scalaL/HelloWorld.scala -> HelloWorld
+/Users/kizer/scalaL/HelloWorld.scala -> Predef
+/Users/kizer/scalaL/HelloWorld.scala -> String
+/Users/kizer/scalaL/HelloWorld.scala -> Test
+/Users/kizer/scalaL/HelloWorld.scala -> Unit
+/Users/kizer/scalaL/HelloWorld.scala -> User2
+/Users/kizer/scalaL/HelloWorld.scala -> arg
+/Users/kizer/scalaL/HelloWorld.scala -> printUser
+/Users/kizer/scalaL/HelloWorld.scala -> println
+/Users/kizer/scalaL/HelloWorld.scala -> scala
+/Users/kizer/scalaL/HelloWorld.scala -> u
+/Users/kizer/scalaL/Koch.scala -> +
+/Users/kizer/scalaL/Koch.scala -> -
+/Users/kizer/scalaL/Koch.scala -> /
+/Users/kizer/scalaL/Koch.scala -> <init>
+/Users/kizer/scalaL/Koch.scala -> ==
+/Users/kizer/scalaL/Koch.scala -> AnyRef
+/Users/kizer/scalaL/Koch.scala -> Application
+/Users/kizer/scalaL/Koch.scala -> Array
+/Users/kizer/scalaL/Koch.scala -> Curve
+/Users/kizer/scalaL/Koch.scala -> CurveApp
+/Users/kizer/scalaL/Koch.scala -> Double
+/Users/kizer/scalaL/Koch.scala -> GraphicsContext
+/Users/kizer/scalaL/Koch.scala -> Int
+/Users/kizer/scalaL/Koch.scala -> Koch
+/Users/kizer/scalaL/Koch.scala -> KochApp
+/Users/kizer/scalaL/Koch.scala -> KochMain
+/Users/kizer/scalaL/Koch.scala -> Predef
+/Users/kizer/scalaL/Koch.scala -> String
+/Users/kizer/scalaL/Koch.scala -> Unit
+/Users/kizer/scalaL/Koch.scala -> a
+/Users/kizer/scalaL/Koch.scala -> angle
+/Users/kizer/scalaL/Koch.scala -> application
+/Users/kizer/scalaL/Koch.scala -> args
+/Users/kizer/scalaL/Koch.scala -> c
+/Users/kizer/scalaL/Koch.scala -> canvas
+/Users/kizer/scalaL/Koch.scala -> draw
+/Users/kizer/scalaL/Koch.scala -> forward
+/Users/kizer/scalaL/Koch.scala -> g
+/Users/kizer/scalaL/Koch.scala -> javafx
+/Users/kizer/scalaL/Koch.scala -> l
+/Users/kizer/scalaL/Koch.scala -> launch
+/Users/kizer/scalaL/Koch.scala -> len
+/Users/kizer/scalaL/Koch.scala -> math
+/Users/kizer/scalaL/Koch.scala -> move
+/Users/kizer/scalaL/Koch.scala -> n
+/Users/kizer/scalaL/Koch.scala -> package
+/Users/kizer/scalaL/Koch.scala -> scala
+/Users/kizer/scalaL/Koch.scala -> scene
+/Users/kizer/scalaL/Koch.scala -> sqrt
+/Users/kizer/scalaL/Logistic.scala -> %
+/Users/kizer/scalaL/Logistic.scala -> *
+/Users/kizer/scalaL/Logistic.scala -> +
+/Users/kizer/scalaL/Logistic.scala -> -
+/Users/kizer/scalaL/Logistic.scala -> /
+/Users/kizer/scalaL/Logistic.scala -> <
+/Users/kizer/scalaL/Logistic.scala -> <init>
+/Users/kizer/scalaL/Logistic.scala -> AnyRef
+/Users/kizer/scalaL/Logistic.scala -> Array
+/Users/kizer/scalaL/Logistic.scala -> ClassTag
+/Users/kizer/scalaL/Logistic.scala -> Double
+/Users/kizer/scalaL/Logistic.scala -> DoubleIsFractional
+/Users/kizer/scalaL/Logistic.scala -> Function1
+/Users/kizer/scalaL/Logistic.scala -> Int
+/Users/kizer/scalaL/Logistic.scala -> Logistic
+/Users/kizer/scalaL/Logistic.scala -> Numeric
+/Users/kizer/scalaL/Logistic.scala -> Predef
+/Users/kizer/scalaL/Logistic.scala -> Unit
+/Users/kizer/scalaL/Logistic.scala -> _root_
+/Users/kizer/scalaL/Logistic.scala -> accumDelta
+/Users/kizer/scalaL/Logistic.scala -> apply
+/Users/kizer/scalaL/Logistic.scala -> b
+/Users/kizer/scalaL/Logistic.scala -> bDelta
+/Users/kizer/scalaL/Logistic.scala -> bTmp
+/Users/kizer/scalaL/Logistic.scala -> batchSize
+/Users/kizer/scalaL/Logistic.scala -> body
+/Users/kizer/scalaL/Logistic.scala -> data
+/Users/kizer/scalaL/Logistic.scala -> doubleArrayOps
+/Users/kizer/scalaL/Logistic.scala -> err
+/Users/kizer/scalaL/Logistic.scala -> exp
+/Users/kizer/scalaL/Logistic.scala -> fill
+/Users/kizer/scalaL/Logistic.scala -> forward
+/Users/kizer/scalaL/Logistic.scala -> i
+/Users/kizer/scalaL/Logistic.scala -> idx
+/Users/kizer/scalaL/Logistic.scala -> j
+/Users/kizer/scalaL/Logistic.scala -> learnRate
+/Users/kizer/scalaL/Logistic.scala -> length
+/Users/kizer/scalaL/Logistic.scala -> loop
+/Users/kizer/scalaL/Logistic.scala -> m
+/Users/kizer/scalaL/Logistic.scala -> materializeClassTag
+/Users/kizer/scalaL/Logistic.scala -> math
+/Users/kizer/scalaL/Logistic.scala -> n
+/Users/kizer/scalaL/Logistic.scala -> ofDim
+/Users/kizer/scalaL/Logistic.scala -> out
+/Users/kizer/scalaL/Logistic.scala -> package
+/Users/kizer/scalaL/Logistic.scala -> patN
+/Users/kizer/scalaL/Logistic.scala -> random
+/Users/kizer/scalaL/Logistic.scala -> rate
+/Users/kizer/scalaL/Logistic.scala -> s
+/Users/kizer/scalaL/Logistic.scala -> scala
+/Users/kizer/scalaL/Logistic.scala -> softmax
+/Users/kizer/scalaL/Logistic.scala -> sum
+/Users/kizer/scalaL/Logistic.scala -> t
+/Users/kizer/scalaL/Logistic.scala -> teach
+/Users/kizer/scalaL/Logistic.scala -> trainN
+/Users/kizer/scalaL/Logistic.scala -> update
+/Users/kizer/scalaL/Logistic.scala -> w
+/Users/kizer/scalaL/Logistic.scala -> wDelta
+/Users/kizer/scalaL/Logistic.scala -> while$1
+/Users/kizer/scalaL/Logistic.scala -> while$2
+/Users/kizer/scalaL/Logistic.scala -> x
+/Users/kizer/scalaL/RecursiveCall.scala -> *
+/Users/kizer/scalaL/RecursiveCall.scala -> +
+/Users/kizer/scalaL/RecursiveCall.scala -> -
+/Users/kizer/scalaL/RecursiveCall.scala -> <byname>
+/Users/kizer/scalaL/RecursiveCall.scala -> <init>
+/Users/kizer/scalaL/RecursiveCall.scala -> <repeated>
+/Users/kizer/scalaL/RecursiveCall.scala -> ==
+/Users/kizer/scalaL/RecursiveCall.scala -> Any
+/Users/kizer/scalaL/RecursiveCall.scala -> App
+/Users/kizer/scalaL/RecursiveCall.scala -> Int
+/Users/kizer/scalaL/RecursiveCall.scala -> Predef
+/Users/kizer/scalaL/RecursiveCall.scala -> RecursiveCall
+/Users/kizer/scalaL/RecursiveCall.scala -> String
+/Users/kizer/scalaL/RecursiveCall.scala -> T
+/Users/kizer/scalaL/RecursiveCall.scala -> _root_
+/Users/kizer/scalaL/RecursiveCall.scala -> arg
+/Users/kizer/scalaL/RecursiveCall.scala -> args
+/Users/kizer/scalaL/RecursiveCall.scala -> augmentString
+/Users/kizer/scalaL/RecursiveCall.scala -> body
+/Users/kizer/scalaL/RecursiveCall.scala -> fact
+/Users/kizer/scalaL/RecursiveCall.scala -> fname
+/Users/kizer/scalaL/RecursiveCall.scala -> indicator
+/Users/kizer/scalaL/RecursiveCall.scala -> level
+/Users/kizer/scalaL/RecursiveCall.scala -> level_=
+/Users/kizer/scalaL/RecursiveCall.scala -> mkString
+/Users/kizer/scalaL/RecursiveCall.scala -> println
+/Users/kizer/scalaL/RecursiveCall.scala -> ret
+/Users/kizer/scalaL/RecursiveCall.scala -> scala
+/Users/kizer/scalaL/RecursiveCall.scala -> trace
+/Users/kizer/scalaL/RecursiveCall.scala -> x
+/Users/kizer/scalaL/TowersOfHanoi.scala -> *
+/Users/kizer/scalaL/TowersOfHanoi.scala -> +
+/Users/kizer/scalaL/TowersOfHanoi.scala -> -
+/Users/kizer/scalaL/TowersOfHanoi.scala -> ::
+/Users/kizer/scalaL/TowersOfHanoi.scala -> <init>
+/Users/kizer/scalaL/TowersOfHanoi.scala -> ==
+/Users/kizer/scalaL/TowersOfHanoi.scala -> AnyRef
+/Users/kizer/scalaL/TowersOfHanoi.scala -> App
+/Users/kizer/scalaL/TowersOfHanoi.scala -> Array
+/Users/kizer/scalaL/TowersOfHanoi.scala -> ClassTag
+/Users/kizer/scalaL/TowersOfHanoi.scala -> Int
+/Users/kizer/scalaL/TowersOfHanoi.scala -> List
+/Users/kizer/scalaL/TowersOfHanoi.scala -> Nil
+/Users/kizer/scalaL/TowersOfHanoi.scala -> Predef
+/Users/kizer/scalaL/TowersOfHanoi.scala -> Range
+/Users/kizer/scalaL/TowersOfHanoi.scala -> String
+/Users/kizer/scalaL/TowersOfHanoi.scala -> TowersOfHanoi
+/Users/kizer/scalaL/TowersOfHanoi.scala -> Unit
+/Users/kizer/scalaL/TowersOfHanoi.scala -> a
+/Users/kizer/scalaL/TowersOfHanoi.scala -> apply
+/Users/kizer/scalaL/TowersOfHanoi.scala -> augmentString
+/Users/kizer/scalaL/TowersOfHanoi.scala -> canBuildFrom
+/Users/kizer/scalaL/TowersOfHanoi.scala -> disp
+/Users/kizer/scalaL/TowersOfHanoi.scala -> from
+/Users/kizer/scalaL/TowersOfHanoi.scala -> hanoi
+/Users/kizer/scalaL/TowersOfHanoi.scala -> head
+/Users/kizer/scalaL/TowersOfHanoi.scala -> immutable
+/Users/kizer/scalaL/TowersOfHanoi.scala -> m
+/Users/kizer/scalaL/TowersOfHanoi.scala -> map
+/Users/kizer/scalaL/TowersOfHanoi.scala -> materializeClassTag
+/Users/kizer/scalaL/TowersOfHanoi.scala -> mkString
+/Users/kizer/scalaL/TowersOfHanoi.scala -> n
+/Users/kizer/scalaL/TowersOfHanoi.scala -> package
+/Users/kizer/scalaL/TowersOfHanoi.scala -> println
+/Users/kizer/scalaL/TowersOfHanoi.scala -> refArrayOps
+/Users/kizer/scalaL/TowersOfHanoi.scala -> reverse
+/Users/kizer/scalaL/TowersOfHanoi.scala -> s
+/Users/kizer/scalaL/TowersOfHanoi.scala -> scala
+/Users/kizer/scalaL/TowersOfHanoi.scala -> start
+/Users/kizer/scalaL/TowersOfHanoi.scala -> tail
+/Users/kizer/scalaL/TowersOfHanoi.scala -> to
+/Users/kizer/scalaL/TowersOfHanoi.scala -> toList
+/Users/kizer/scalaL/TowersOfHanoi.scala -> update
+/Users/kizer/scalaL/TowersOfHanoi.scala -> work
+/Users/kizer/scalaL/TowersOfHanoi.scala -> x
+/Users/kizer/scalaL/User.scala -> +
+/Users/kizer/scalaL/User.scala -> <init>
+/Users/kizer/scalaL/User.scala -> AnyRef
+/Users/kizer/scalaL/User.scala -> Int
+/Users/kizer/scalaL/User.scala -> Predef
+/Users/kizer/scalaL/User.scala -> String
+/Users/kizer/scalaL/User.scala -> User2
+/Users/kizer/scalaL/User.scala -> age
+/Users/kizer/scalaL/User.scala -> name
+/Users/kizer/scalaL/User.scala -> println
+/Users/kizer/scalaL/User.scala -> scala
+/Users/kizer/scalaL/User.scala -> user
+product stamps:
+41 items
+/Users/kizer/scalaL/target/scala-2.11/classes/CodeToImage$.class -> lastModified(1466658724000)
+/Users/kizer/scalaL/target/scala-2.11/classes/CodeToImage$delayedInit$body.class -> lastModified(1466658724000)
+/Users/kizer/scalaL/target/scala-2.11/classes/CodeToImage.class -> lastModified(1466658724000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Curve.class -> lastModified(1464839692000)
+/Users/kizer/scalaL/target/scala-2.11/classes/CurveApp.class -> lastModified(1464839692000)
+/Users/kizer/scalaL/target/scala-2.11/classes/CurveMain$.class -> lastModified(1464839692000)
+/Users/kizer/scalaL/target/scala-2.11/classes/CurveMain.class -> lastModified(1464839692000)
+/Users/kizer/scalaL/target/scala-2.11/classes/HelloWorld$.class -> lastModified(1463621834000)
+/Users/kizer/scalaL/target/scala-2.11/classes/HelloWorld.class -> lastModified(1463621834000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Koch.class -> lastModified(1464851512000)
+/Users/kizer/scalaL/target/scala-2.11/classes/KochApp.class -> lastModified(1464851512000)
+/Users/kizer/scalaL/target/scala-2.11/classes/KochMain$.class -> lastModified(1464851512000)
+/Users/kizer/scalaL/target/scala-2.11/classes/KochMain.class -> lastModified(1464851512000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$1.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$2.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$accumDelta$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$accumDelta$1.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$forward$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$forward$1.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$softmax$1.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$softmax$2.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$3.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$5.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$6$$anonfun$apply$mcVI$sp$7.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1$$anonfun$apply$mcVI$sp$6.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic$$anonfun$train$1.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/Logistic.class -> lastModified(1466658479000)
+/Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall$$anonfun$fact$1.class -> lastModified(1463621834000)
+/Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall$.class -> lastModified(1463621834000)
+/Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall$delayedInit$body.class -> lastModified(1463621834000)
+/Users/kizer/scalaL/target/scala-2.11/classes/RecursiveCall.class -> lastModified(1463621834000)
+/Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$disp$1.class -> lastModified(1463930781000)
+/Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$disp$2.class -> lastModified(1463930781000)
+/Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$disp$3.class -> lastModified(1463930781000)
+/Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$$anonfun$hanoi$1.class -> lastModified(1463930781000)
+/Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$.class -> lastModified(1463930781000)
+/Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi$delayedInit$body.class -> lastModified(1463930781000)
+/Users/kizer/scalaL/target/scala-2.11/classes/TowersOfHanoi.class -> lastModified(1463930781000)
+/Users/kizer/scalaL/target/scala-2.11/classes/User2$.class -> lastModified(1463621834000)
+/Users/kizer/scalaL/target/scala-2.11/classes/User2.class -> lastModified(1463621834000)
+source stamps:
+10 items
+/Users/kizer/scalaL/CodeToImage.scala -> hash(51e32a8c39e3908db3faa2fef30724db71ae36e1)
+/Users/kizer/scalaL/Curve.scala -> hash(2bb1f9cc6c336127733201cedc7b708d024c9faa)
+/Users/kizer/scalaL/Dleran.scala -> hash(da39a3ee5e6b4b0d3255bfef95601890afd80709)
+/Users/kizer/scalaL/HelloWorld.scala -> hash(fcd4b37ad893d6838157e5da13a7b7d4e6ad17b1)
+/Users/kizer/scalaL/Koch.scala -> hash(be52ed6de48e7c9ff27b4e20b1206d55f4bcc855)
+/Users/kizer/scalaL/Logistic.scala -> hash(a388afa301770e735e5aaa3d03b13552c1e46895)
+/Users/kizer/scalaL/RecursiveCall.scala -> hash(054079ced60cb4f6ce3684cf039831ffe27e563d)
+/Users/kizer/scalaL/Test.scala -> hash(da39a3ee5e6b4b0d3255bfef95601890afd80709)
+/Users/kizer/scalaL/TowersOfHanoi.scala -> hash(c36561779c0dd57c4ce7f1d8a01caf0cf7bef933)
+/Users/kizer/scalaL/User.scala -> hash(0f89fe802b6039ca785fc7aeed8dbff8e2ad6ada)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/jfxrt.jar -> lastModified(1410885364000)
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/ext/jfxrt.jar -> javafx.application.Application
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kizer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.App
+internal apis:
+10 items
+/Users/kizer/scalaL/CodeToImage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCFSjuOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFS/a0V0AAtDb2RlVG9JbWFnZXNxAH4ADA9cS9B0AAZub3RpZnlzcQB+AAxVJt8ddAAEd2FpdHNxAH4ADC6UQgd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMr6q7BXQABmVxdWFsc3NxAH4ADGUjKpN0AAxhc0luc3RhbmNlT2ZzcQB+AAyC0Y4PdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwSnpuxdAAMc3luY2hyb25pemVkc3EAfgAMCTKO53QADSRpc0luc3RhbmNlT2ZzcQB+AAwg+azydAAGY3JlYXRlc3EAfgAM9vAa0XQABG1haW5zcQB+AAyEWg6RdAAJbm90aWZ5QWxsc3EAfgAMGtfQWHQADGlzSW5zdGFuY2VPZnNxAH4ADABTg450AANzdHJzcQB+AAypI24+dAAGPGluaXQ+c3EAfgAMJZgqsnQAAj09c3EAfgAMAWQSS3QABWNsb25lc3EAfgAM7NDLwXQACHRvU3RyaW5nc3EAfgAMDp3VH3QABGFyZ3NzcQB+AAzwBUM8dAACIT1zcQB+AAwAZTifdAAIZ2V0Q2xhc3NzcQB+AAwIZvc6dAAFc3RhcnRzcQB+AAzirCwMdAACbmVzcQB+AAzCoE3SdAACZXFzcQB+AAyS7DtwdAALZGVsYXllZEluaXRzcQB+AAxPl2swdAACIyNzcQB+AAw1AFd8dAAIZmluYWxpemVzcQB+AAzYiml3dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AA91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AZgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBtc3EAfgBmAXVxAH4ASgAAAABwc3EAfgBmAXVxAH4ASgAAAABwc3EAfgBmAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnNxAH4AeXQAA0FueXNxAH4AfXNxAH4AgHVxAH4AgwAAAAJzcQB+AIV0AAVzY2FsYXEAfgCMcHBzcQB+AExxAH4AWXVxAH4AWgAAAABzcQB+AFwAdAALQ29kZVRvSW1hZ2V1cQB+AF4AAAAAfnEAfgBgdAAGTW9kdWxldXEAfgBkAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AZgFxAH4AbnBzcQB+AGYBc3EAfgBwc3EAfgBmAXVxAH4ASgAAAABwc3EAfgBmAXVxAH4ASgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUHEAfgBZdXEAfgBaAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4ApnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AHl0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AfXNxAH4AgHVxAH4AgwAAAAJzcQB+AIVxAH4Ak3EAfgCMc3EAfgBcAHEAfgAjdXEAfgBeAAAAAHNxAH4AeXQABFVuaXRxAH4AtXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGF0AAVQbGFpbnEAfgAzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB6WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBsc3EAfgB5dAAFQXJyYXlxAH4AtXVxAH4AdwAAAAFzcQB+AHl0AAZTdHJpbmdzcQB+AH1zcQB+AIB1cQB+AIMAAAADc3EAfgCFcQB+AIhzcQB+AIVxAH4AinEAfgCMcHNxAH4AZgF1cQB+AHcAAAAEc3EAfgB5dAADQXBwcQB+ALVzcQB+AHl0AAtEZWxheWVkSW5pdHEAfgC1c3EAfgB5cQB+AHxxAH4A0nNxAH4AeXEAfgCOcQB+ALVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVe6wNhnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC0vVXNlcnMva2l6ZXIvc2NhbGFML3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRR4yqMOeOQjbP6ov7zByTbca424Q==
+/Users/kizer/scalaL/Curve.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCy5FNpAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFnwQ6J0AAZub3RpZnlzcQB+AAxkGrB2dAAPZ2V0SG9zdFNlcnZpY2Vzc3EAfgAMHP4X/3QABG1vdmVzcQB+AAwPpIa1dAAEd2FpdHNxAH4ADF5nsoN0AAhDdXJ2ZUFwcHNxAH4ADHWS39d0AA0kYXNJbnN0YW5jZU9mc3EAfgAM5/zM5nQABmVxdWFsc3NxAH4ADM7Tm610AAxhc0luc3RhbmNlT2ZzcQB+AAwLH0uPdAAMc3luY2hyb25pemVkc3EAfgAMPN5zvnQADSRpc0luc3RhbmNlT2ZzcQB+AAyxFCmJdAAPbm90aWZ5UHJlbG9hZGVyc3EAfgAMenx6b3QAB2ZvcndhcmRzcQB+AAxb2ciQdAAFQ3VydmVzcQB+AAy4qjczdAAEbWFpbnNxAH4ADECdiCx0AARzdG9wc3EAfgAMTuwMuHQABWxhc3RYc3EAfgAMCnPhUnQACW5vdGlmeUFsbHNxAH4ADLXRd/90AAxpc0luc3RhbmNlT2ZzcQB+AAxU3MJ3dAAEZHJhd3NxAH4ADM8w6Ld0AAY8aW5pdD5zcQB+AAzuijgydAABZ3NxAH4ADLwEaot0AAI9PXNxAH4ADAZYDaN0AAVsYXN0WXNxAH4ADOaFgZp0AAVjbG9uZXNxAH4ADJgTJ9x0AAh0b1N0cmluZ3NxAH4ADPB1eTB0AAIhPXNxAH4ADFh6HPd0AA1nZXRQYXJhbWV0ZXJzc3EAfgAMcCG02HQACGdldENsYXNzc3EAfgAMwqYGznQABXN0YXJ0c3EAfgAMN8sQiHQACUN1cnZlTWFpbnNxAH4ADIWQzMJ0AAJuZXNxAH4ADODDgYV0AARpbml0c3EAfgAMPHtRGHQAAmVxc3EAfgAMILbymXQABmNhbnZhc3NxAH4ADJ66ODl0AAIjI3NxAH4ADONBrXZ0AAhmaW5hbGl6ZXNxAH4ADJuo44N0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ASXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHgAcHNxAH4AfXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AIFzcQB+AHgAcHNxAH4AfXVxAH4AXAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AYnEAfgBrdXEAfgBsAAAAAHNxAH4AbgBxAH4AKXVxAH4AcAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCAdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIBzcQB+AJF0AAVBcnJheXEAfgCXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJF0AAZTdHJpbmdzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAEamF2YXNxAH4AnXQABGxhbmdxAH4AonNxAH4AeABwc3EAfgB9dXEAfgBcAAAAAHNxAH4AeABwc3EAfgB9dXEAfgC2AAAAAnNxAH4AkXQABk9iamVjdHEAfgC6c3EAfgCRdAADQW55cQB+AJdzcQB+AF5xAH4Aa3VxAH4AbAAAAABzcQB+AG4AcQB+ABd1cQB+AHAAAAAAfnEAfgBydAAIQ2xhc3NEZWZ1cQB+AHYAAAAAc3EAfgB4AHBzcQB+AH1xAH4AgnNxAH4AeABwc3EAfgB9c3EAfgCFc3EAfgB4AHBzcQB+AH11cQB+AFwAAAAAc3EAfgB4AHBzcQB+AH11cQB+AFwAAAAAc3EAfgB4AHBzcQB+AH11cQB+ALYAAAADc3EAfgCRdAALQXBwbGljYXRpb25zcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAGamF2YWZ4c3EAfgCddAALYXBwbGljYXRpb25xAH4AonNxAH4AkXEAfgDIc3EAfgCVc3EAfgCYdXEAfgCbAAAAA3NxAH4AnXEAfgC+c3EAfgCdcQB+AMBxAH4AonNxAH4AkXEAfgDKc3EAfgCVc3EAfgCYdXEAfgCbAAAAAnNxAH4AnXEAfgCgcQB+AKJzcQB+AF5xAH4Aa3VxAH4AbAAAAABzcQB+AG4AcQB+ACd1cQB+AHAAAAAAcQB+AM91cQB+AHYAAAAAc3EAfgB4AHBzcQB+AH1xAH4AgnNxAH4AeABwc3EAfgB9c3EAfgCFc3EAfgB4AHBzcQB+AH11cQB+AFwAAAAAc3EAfgB4AHBzcQB+AH11cQB+AFwAAAAAc3EAfgB4AHBzcQB+AH11cQB+ALYAAAACc3EAfgCRcQB+AMhzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCdcQB+AL5zcQB+AJ1xAH4AwHEAfgCic3EAfgCRcQB+AMpzcQB+AJVzcQB+AJh1cQB+AJsAAAACc3EAfgCdcQB+AKBxAH4AonVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVDz/UcXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC0vVXNlcnMva2l6ZXIvc2NhbGFML3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQrsfnMbDNhJ3MyAc7ce3CNAkyfqg==
+/Users/kizer/scalaL/Dleran.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVNkM00p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNo5o+5ea0sNMlW/75VgGJCv2AcJ
+/Users/kizer/scalaL/HelloWorld.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSSun4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA1pzNN0AAZub3RpZnlzcQB+AAyrjp6DdAAEd2FpdHNxAH4ADMAyjON0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEnvlkXQABmVxdWFsc3NxAH4ADG6Zj5p0AAxhc0luc3RhbmNlT2ZzcQB+AAx8aJuKdAAMc3luY2hyb25pemVkc3EAfgAMkowJDHQADSRpc0luc3RhbmNlT2ZzcQB+AAyhG7xidAAEbWFpbnNxAH4ADKPo2lt0AAlub3RpZnlBbGxzcQB+AAyQS6ROdAAMaXNJbnN0YW5jZU9mc3EAfgAMql8DxXQAAj09c3EAfgAMN0h1EHQABWNsb25lc3EAfgAM3V0UCHQABFRlc3RzcQB+AAwEICd1dAAIdG9TdHJpbmdzcQB+AAyxCcFEdAACIT1zcQB+AAzAYfbAdAAKSGVsbG9Xb3JsZHNxAH4ADNtinDN0AAhnZXRDbGFzc3NxAH4ADIfDall0AAJuZXNxAH4ADEY0rCt0AAJlcXNxAH4ADBo4mZp0AAIjI3NxAH4ADNg9zBh0AAhmaW5hbGl6ZXNxAH4ADEtTxj90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ALXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBhc3EAfgBaAXVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AHXVxAH4AUgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFV0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AG90AAVBcnJheXEAfgB1dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG90AAZTdHJpbmdzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7dAAEamF2YXNxAH4Ae3QABGxhbmdxAH4AgHBzcQB+AFoBdXEAfgA+AAAAAHBzcQB+AFoBdXEAfgCUAAAAAnNxAH4Ab3QABk9iamVjdHEAfgCYc3EAfgBvdAADQW55cQB+AHVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUxqjGzHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC0vVXNlcnMva2l6ZXIvc2NhbGFML3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT81LN62JPWg4FX5doTp7fU5q0XsQ==
+/Users/kizer/scalaL/Koch.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHALF0mJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGRd2650AAZub3RpZnlzcQB+AAxAVvRgdAAPZ2V0SG9zdFNlcnZpY2Vzc3EAfgAMq7VhZ3QABG1vdmVzcQB+AAySpzG1dAAEd2FpdHNxAH4ADBl+8fx0AA0kYXNJbnN0YW5jZU9mc3EAfgAM9KKsjXQABmVxdWFsc3NxAH4ADJUMeMt0AAxhc0luc3RhbmNlT2ZzcQB+AAwzxs4tdAAMc3luY2hyb25pemVkc3EAfgAMKk9spHQADSRpc0luc3RhbmNlT2ZzcQB+AAyp6vTVdAAPbm90aWZ5UHJlbG9hZGVyc3EAfgAMx5G07HQAB2ZvcndhcmRzcQB+AAwlRnNkdAAEbWFpbnNxAH4ADLad5YF0AARzdG9wc3EAfgAMWr1lfXQABWxhc3RYc3EAfgAMgTzl6HQACW5vdGlmeUFsbHNxAH4ADHrW8PZ0AAxpc0luc3RhbmNlT2ZzcQB+AAyYzvdFdAAEZHJhd3NxAH4ADFF8r550AAY8aW5pdD5zcQB+AAwa6AuVdAABZ3NxAH4ADDdrcd90AAI9PXNxAH4ADM2sVCF0AAVsYXN0WXNxAH4ADCvvwQF0AAVjbG9uZXNxAH4ADC21mjp0AAh0b1N0cmluZ3NxAH4ADCEN4n10AAIhPXNxAH4ADBecaaR0AA1nZXRQYXJhbWV0ZXJzc3EAfgAMc2maX3QABEtvY2hzcQB+AAzSbrlDdAAIZ2V0Q2xhc3NzcQB+AAwwlXwodAAFc3RhcnRzcQB+AAwaC2xZdAAHS29jaEFwcHNxAH4ADNsXBFd0AAJuZXNxAH4ADGZdyBJ0AARpbml0c3EAfgAMg13U2XQAAmVxc3EAfgAM8Om203QABmNhbnZhc3NxAH4ADOundkl0AAIjI3NxAH4ADNooHkV0AAhmaW5hbGl6ZXNxAH4ADIE7tNR0AAhoYXNoQ29kZXNxAH4ADNQzW490AAhLb2NoTWFpbnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AV3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHgAcHNxAH4AfXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AIFzcQB+AHgAcHNxAH4AfXVxAH4AXAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AYnEAfgBrdXEAfgBsAAAAAHNxAH4AbgBxAH4AJXVxAH4AcAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCAdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIBzcQB+AJF0AAVBcnJheXEAfgCXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJF0AAZTdHJpbmdzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAEamF2YXNxAH4AnXQABGxhbmdxAH4AonNxAH4AeABwc3EAfgB9dXEAfgBcAAAAAHNxAH4AeABwc3EAfgB9dXEAfgC2AAAAAnNxAH4AkXQABk9iamVjdHEAfgC6c3EAfgCRdAADQW55cQB+AJdzcQB+AF5xAH4Aa3VxAH4AbAAAAABzcQB+AG4AcQB+AEd1cQB+AHAAAAAAfnEAfgBydAAIQ2xhc3NEZWZ1cQB+AHYAAAAAc3EAfgB4AHBzcQB+AH1xAH4AgnNxAH4AeABwc3EAfgB9c3EAfgCFc3EAfgB4AHBzcQB+AH11cQB+AFwAAAAAc3EAfgB4AHBzcQB+AH11cQB+AFwAAAAAc3EAfgB4AHBzcQB+AH11cQB+ALYAAAAEc3EAfgCRdAAIQ3VydmVBcHBzcQB+AJVzcQB+AJh1cQB+AJsAAAABcQB+AKJzcQB+AJF0AAtBcHBsaWNhdGlvbnNxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ10AAZqYXZhZnhzcQB+AJ10AAthcHBsaWNhdGlvbnEAfgCic3EAfgCRcQB+AMhzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCdcQB+AL5zcQB+AJ1xAH4AwHEAfgCic3EAfgCRcQB+AMpzcQB+AJVzcQB+AJh1cQB+AJsAAAACc3EAfgCdcQB+AKBxAH4AonNxAH4AXnEAfgBrdXEAfgBsAAAAAHNxAH4AbgBxAH4AQXVxAH4AcAAAAABxAH4Az3VxAH4AdgAAAABzcQB+AHgAcHNxAH4AfXEAfgCCc3EAfgB4AHBzcQB+AH1zcQB+AIVzcQB+AHgAcHNxAH4AfXVxAH4AXAAAAABzcQB+AHgAcHNxAH4AfXVxAH4AXAAAAABzcQB+AHgAcHNxAH4AfXVxAH4AtgAAAANzcQB+AJF0AAVDdXJ2ZXNxAH4AlXNxAH4AmHVxAH4AmwAAAAFxAH4AonNxAH4AkXEAfgDIc3EAfgCVc3EAfgCYdXEAfgCbAAAAA3NxAH4AnXEAfgC+c3EAfgCdcQB+AMBxAH4AonNxAH4AkXEAfgDKc3EAfgCVc3EAfgCYdXEAfgCbAAAAAnNxAH4AnXEAfgCgcQB+AKJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVQ/0MN91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAtL1VzZXJzL2tpemVyL3NjYWxhTC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUvlLtbeSOfJ/ye04gsSBtVfS8yFU=
+/Users/kizer/scalaL/Logistic.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDiqCIlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cM5oYat0AAZub3RpZnlzcQB+AAwaUKbQdAAHc29mdG1heHNxAH4ADC8qdPB0AAphY2N1bURlbHRhc3EAfgAMseHjTXQABHdhaXRzcQB+AAyA7kPZdAAEbG9vcHNxAH4ADOoIjZV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMnRI1onQAAW5zcQB+AAyTLsIRdAAGZXF1YWxzc3EAfgAMMEnBqHQABndEZWx0YXNxAH4ADGGGBKh0AAxhc0luc3RhbmNlT2ZzcQB+AAxic1AvdAAMc3luY2hyb25pemVkc3EAfgAMJoXhSnQADSRpc0luc3RhbmNlT2ZzcQB+AAz4JodcdAAHZm9yd2FyZHNxAH4ADOrJgkN0AARiVG1wc3EAfgAM2eVFz3QAAW1zcQB+AAwXy1DUdAAJbm90aWZ5QWxsc3EAfgAMBjNwOHQAA291dHNxAH4ADF5oPyh0AAxpc0luc3RhbmNlT2ZzcQB+AAwr6VtJdAAGPGluaXQ+c3EAfgAMn1jdIHQAAWJzcQB+AAwRX/iYdAACPT1zcQB+AAyCv8+9dAAFY2xvbmVzcQB+AAyHPzZedAAITG9naXN0aWNzcQB+AAzM3LOydAAIdG9TdHJpbmdzcQB+AAzwdFxidAADZXJyc3EAfgAM/B6BV3QAAiE9c3EAfgAM8LaeRnQABXRyYWluc3EAfgAM5ntv9XQACGdldENsYXNzc3EAfgAMsGk3gXQAAXdzcQB+AAw1x1I8dAACbmVzcQB+AAylX8ffdAACZXFzcQB+AAyNY40JdAADc3Vtc3EAfgAMz1gvhXQAAiMjc3EAfgAMA5MotHQACGZpbmFsaXplc3EAfgAMZRVLR3QACGhhc2hDb2Rlc3EAfgAMYf3yGHQABmJEZWx0YXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AO3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB2AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AH1zcQB+AHYBdXEAfgBaAAAAAHBzcQB+AHYBdXEAfgBaAAAAAHBzcQB+AHYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB8dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB8c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCVdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCWc3EAfgCJdAADQW55c3EAfgCNc3EAfgCQdXEAfgCTAAAAAnNxAH4AlXQABXNjYWxhcQB+AJxwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVe6hKo3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC0vVXNlcnMva2l6ZXIvc2NhbGFML3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSjiK+jAXcOc15aqj0DsTVSweRolQ==
+/Users/kizer/scalaL/RecursiveCall.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHClmu1jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNAlLLx0AAZub3RpZnlzcQB+AAy6qeLVdAAEd2FpdHNxAH4ADOYruI10AA0kYXNJbnN0YW5jZU9mc3EAfgAMKgGKbHQABXRyYWNlc3EAfgAM0Pmb23QABmVxdWFsc3NxAH4ADMBwLKV0AAxhc0luc3RhbmNlT2ZzcQB+AAzljke+dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwwfHNodAAMc3luY2hyb25pemVkc3EAfgAMCwmmNHQADSRpc0luc3RhbmNlT2ZzcQB+AAzzn7MadAAEbWFpbnNxAH4ADHjVdGF0AAlub3RpZnlBbGxzcQB+AAxJ6YEodAAMaXNJbnN0YW5jZU9mc3EAfgAMQWAxCXQABGZhY3RzcQB+AAwcW4iLdAACPT1zcQB+AAylPPf6dAAFY2xvbmVzcQB+AAwXE22sdAANUmVjdXJzaXZlQ2FsbHNxAH4ADLwc8Pp0AAh0b1N0cmluZ3NxAH4ADJZbemF0AARhcmdzc3EAfgAM8yf75XQAAiE9c3EAfgAMyfX6QHQACGdldENsYXNzc3EAfgAMYt15lHQAAm5lc3EAfgAMf5EvW3QAAmVxc3EAfgAMJ/W8Q3QAC2RlbGF5ZWRJbml0c3EAfgAMwwbFUnQAAiMjc3EAfgAMRSzzhXQACGZpbmFsaXplc3EAfgAMYN4RPnQACGhhc2hDb2Rlc3EAfgAM+S3dM3QACWluZGljYXRvcnNxAH4ADL/5v0l0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ALXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGgAcHNxAH4AbXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AHFzcQB+AGgAcHNxAH4AbXVxAH4ASgAAAABzcQB+AGgAcHNxAH4AbXVxAH4ASgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUHEAfgBZdXEAfgBaAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AfnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBwdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJhzcQB+AFwAcQB+ACF1cQB+AF4AAAAAc3EAfgCLdAAEVW5pdHEAfgCRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AfnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AYXQABVBsYWlucQB+ADFzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHBzcQB+AIt0AAVBcnJheXEAfgCRdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIt0AAZTdHJpbmdzcQB+AI9zcQB+AJJ1cQB+AJUAAAADc3EAfgCXdAAEamF2YXNxAH4Al3QABGxhbmdxAH4AnHNxAH4AaABwc3EAfgBtdXEAfgCzAAAABHNxAH4Ai3QAA0FwcHEAfgCRc3EAfgCLdAALRGVsYXllZEluaXRxAH4AkXNxAH4Ai3QABk9iamVjdHEAfgC3c3EAfgCLdAADQW55cQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMaoxsx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAtL1VzZXJzL2tpemVyL3NjYWxhTC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUBUB5ztYMtPbONoTPA5gx/+J+Vj0=
+/Users/kizer/scalaL/Test.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVNkM00p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNo5o+5ea0sNMlW/75VgGJCv2AcJ
+/Users/kizer/scalaL/TowersOfHanoi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDz5B3CAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMV7iyF0AAZub3RpZnlzcQB+AAz0j/rgdAAEd2FpdHNxAH4ADLQL8xV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMW4XywXQAAW5zcQB+AAzFePGddAAGZXF1YWxzc3EAfgAMEkGLNnQABWhhbm9pc3EAfgAMZG281XQADGFzSW5zdGFuY2VPZnNxAH4ADE06IvB0AA5leGVjdXRpb25TdGFydHNxAH4ADCC63uN0AAxzeW5jaHJvbml6ZWRzcQB+AAxi8UnCdAANJGlzSW5zdGFuY2VPZnNxAH4ADBGDZAd0AARtYWluc3EAfgAMCeBrH3QACW5vdGlmeUFsbHNxAH4ADMFoKy50AAxpc0luc3RhbmNlT2ZzcQB+AAx9XF3WdAAGPGluaXQ+c3EAfgAMYaE44HQADVRvd2Vyc09mSGFub2lzcQB+AAyXRFdOdAACPT1zcQB+AAzCPWBDdAAFY2xvbmVzcQB+AAzMIvfldAAEZGlzcHNxAH4ADAdZd5x0AAh0b1N0cmluZ3NxAH4ADOaJN0l0AARhcmdzc3EAfgAMIlTIdnQAAiE9c3EAfgAMGh+pO3QACGdldENsYXNzc3EAfgAMxhHBeHQABXN0YXJ0c3EAfgAMLqzKT3QAAm5lc3EAfgAMaDo2QXQAAmVxc3EAfgAM9gyOd3QAC2RlbGF5ZWRJbml0c3EAfgAM/3aHX3QAAiMjc3EAfgAMDSgh0XQACGZpbmFsaXplc3EAfgAMQPSU3HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgArdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGgBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4Ab3NxAH4AaAF1cQB+AEwAAAAAcHNxAH4AaAF1cQB+AEwAAAAAcHNxAH4AaAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AId0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIhzcQB+AHt0AANBbnlzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHdAAFc2NhbGFxAH4AjnBwc3EAfgBOcQB+AFt1cQB+AFwAAAAAc3EAfgBeAHQADVRvd2Vyc09mSGFub2l1cQB+AGAAAAAAfnEAfgBidAAGTW9kdWxldXEAfgBmAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AaAFxAH4AcHBzcQB+AGgBc3EAfgByc3EAfgBoAXVxAH4ATAAAAABwc3EAfgBoAXVxAH4ATAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUnEAfgBbdXEAfgBcAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AqHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AHt0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4Af3NxAH4AgnVxAH4AhQAAAAJzcQB+AIdxAH4AlXEAfgCOc3EAfgBeAHEAfgAjdXEAfgBgAAAAAHNxAH4Ae3QABFVuaXRxAH4At3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGN0AAVQbGFpbnEAfgA1c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB8WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBuc3EAfgB7dAAFQXJyYXlxAH4At3VxAH4AeQAAAAFzcQB+AHt0AAZTdHJpbmdzcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHcQB+AIpzcQB+AIdxAH4AjHEAfgCOcHNxAH4AaAF1cQB+AHkAAAAEc3EAfgB7dAADQXBwcQB+ALdzcQB+AHt0AAtEZWxheWVkSW5pdHEAfgC3c3EAfgB7cQB+AH5xAH4A1HNxAH4Ae3EAfgCQcQB+ALdwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFU2RLrRXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AC0vVXNlcnMva2l6ZXIvc2NhbGFML3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTDZWF3nA3VfEzn8digHK8M9775Mw==
+/Users/kizer/scalaL/User.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDVENrfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIFmcNt0AAZub3RpZnlzcQB+AAz0KzLmdAAEbmFtZXNxAH4ADKEJ1MV0AAR3YWl0c3EAfgAMuKmJOnQADSRhc0luc3RhbmNlT2ZzcQB+AAzi1bjXdAAFVXNlcjJzcQB+AAyDPRqadAAGZXF1YWxzc3EAfgAM2CFISHQADGFzSW5zdGFuY2VPZnNxAH4ADAGokRZ0AAxzeW5jaHJvbml6ZWRzcQB+AAyZPBTxdAANJGlzSW5zdGFuY2VPZnNxAH4ADPRN9wt0AANhZ2VzcQB+AAzopXQ7dAAJbm90aWZ5QWxsc3EAfgAMLugNd3QADGlzSW5zdGFuY2VPZnNxAH4ADMWWNtp0AAY8aW5pdD5zcQB+AAywaRJ/dAACPT1zcQB+AAwO0mtfdAAFY2xvbmVzcQB+AAzzKE8bdAAIdG9TdHJpbmdzcQB+AAz2SyTUdAACIT1zcQB+AAzC/wSKdAAIZ2V0Q2xhc3NzcQB+AAyyYuMxdAACbmVzcQB+AAwfrLxAdAACZXFzcQB+AAwqC+1SdAACIyNzcQB+AAyVjTJcdAAIZmluYWxpemVzcQB+AAya8e3BdAAIaGFzaENvZGVzcQB+AAzvnB8OdAAJcHJpbnRVc2Vyc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAXdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZXNxAH4AXgF1cQB+AEIAAAAAcHNxAH4AXgF1cQB+AEIAAAAAcHNxAH4AXgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHBwc3EAfgBEcQB+AFF1cQB+AFIAAAAAc3EAfgBUAHQABVVzZXIydXEAfgBWAAAAAH5xAH4AWHQABk1vZHVsZXVxAH4AXAAAAABzcQB+AF4BcQB+AGZwc3EAfgBeAXNxAH4AaHNxAH4AXgF1cQB+AEIAAAAAcHNxAH4AXgF1cQB+AEIAAAAAcHNxAH4AXgF1cQB+AG8AAAACc3EAfgBxcQB+AHRzcQB+AHVzcQB+AHh1cQB+AHsAAAADc3EAfgB9cQB+AIBzcQB+AH1xAH4AgnEAfgCEc3EAfgBxcQB+AIZzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9cQB+AItxAH4AhHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTGqMbMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA+J/oArYDnKeF/Hru2Nv/jirWra
+external apis:
+0 items
+source infos:
+10 items
+/Users/kizer/scalaL/CodeToImage.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/Curve.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/Dleran.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/HelloWorld.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/Koch.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/Logistic.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/RecursiveCall.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/Test.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/TowersOfHanoi.scala -> 
+AAAAAAAAAAA=
+/Users/kizer/scalaL/User.scala -> 
+AAAAAAAAAAA=
+compilations:
+29 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVEGEScd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVEGWEIR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVEGaqdh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVEGuvNR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVEGw2+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVEGzDR91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVEvqxTN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMaoxsx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMf7jqh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMf9bJR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMf/M1x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVNkM00p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVNkNjqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVNkRERV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVNkS60V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVQ8/1HF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVQ/0MN91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVVc9jyB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVVdFPNx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVVdGM8l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVVdJGAh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVVdJlSx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVVdKRkt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVVd2Kv51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXtNIYJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXttRWh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXuoSqN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXuq8Cx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXusDYZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALS9Vc2Vycy9raXplci9zY2FsYUwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
